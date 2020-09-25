@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Đặng Minh Hiếu</string>
+    <string name="kh_i_a">Khối A</string>
+    <string name="kh_i_b">Khối B</string>
+    <string name="kh_i_c">Khối C</string>
+    <string name="kh_i_d">Khối D</string>
+    <string name="kh_i_e">Khối E</string>
+    <string name="g">Khối G</string>
+    <string name="kh_i_ff">Khối FF</string>
+    <string name="abc1">abc</string>
+</resources>
